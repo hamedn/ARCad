@@ -1,0 +1,46 @@
+# Blender3D MTL File: Bomberman (Hero 64).blend
+# Material Count: 4
+newmtl Material.003_Balls.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.590000 0.590000 0.590000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Balls.png
+
+
+newmtl Material.004_Buckle.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.318750 0.318750 0.318750
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Buckle.png
+
+
+newmtl Material.002_Shoes.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.255000 0.255000 0.255000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shoes.png
+
+
+newmtl Material.001_Face.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.637500 0.637500 0.637500
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Face.png
+
+

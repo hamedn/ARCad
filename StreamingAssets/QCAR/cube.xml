@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="wand2.Back" size="5.000000 5.000000"/>
+        <ImageTarget name="wand2.Bottom" size="5.000000 5.000000"/>
+        <ImageTarget name="wand2.Left" size="5.000000 5.000000"/>
+        <ImageTarget name="wand2.Right" size="5.000000 5.000000"/>
+        <ImageTarget name="wand2.Top" size="5.000000 5.000000"/>
+        <ImageTarget name="wand2.Front" size="5.000000 5.000000"/>
+        <MultiTarget name="wand2">
+            <Part name="wand2.Left" translation="-2.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="wand2.Right" translation="2.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="wand2.Front" translation="0 0 2.5" rotation="AD: 1 0 0 0"/>
+            <Part name="wand2.Back" translation="0 0 -2.5" rotation="AD: 0 1 0 180"/>
+            <Part name="wand2.Top" translation="0 2.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="wand2.Bottom" translation="0 -2.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

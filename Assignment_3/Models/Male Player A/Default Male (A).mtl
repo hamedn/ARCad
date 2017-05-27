@@ -1,0 +1,67 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Material.015
+Ns 92.156863
+Ka 0.292810 0.292810 0.292810
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material.png
+map_Ka Material.png
+map_d Material.png
+
+newmtl Material53.024
+Ns 92.156863
+Ka 0.292810 0.292810 0.292810
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material53.png
+map_Ka Material53.png
+map_d Material53.png
+
+newmtl Material54.024
+Ns 92.156863
+Ka 0.292810 0.292810 0.292810
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material54.png
+map_Ka Material54.png
+map_d Material54.png
+
+newmtl Material55.024
+Ns 92.156863
+Ka 0.292810 0.292810 0.292810
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material55.png
+map_Ka Material55.png
+map_d Material55.png
+
+newmtl Material9.002
+Ns 92.156863
+Ka 0.292810 0.292810 0.292810
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material9.png
+map_Ka Material9.png
+map_d Material9.png
